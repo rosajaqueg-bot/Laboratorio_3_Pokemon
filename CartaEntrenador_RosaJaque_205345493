@@ -6,4 +6,13 @@ public class CartaEntrenador_RosaJaque_205345493 extends Carta_RosaJaque_rut {
     private String tipo; // "partidario" u "objeto"
     private String texto; // descripcion de la carta
     private Efecto_RosaJaque_rut efecto;
+
+    // Constructor
+    public CartaEntrenador_RosaJaque_rut(
+            String expansion,
+            int numero,
+            String nombre,
+            String tipo,
+            String texto,
+            Efecto_RosaJaque_rut efecto) {
 }
