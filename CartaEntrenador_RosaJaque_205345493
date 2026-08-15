@@ -20,5 +20,20 @@ public class CartaEntrenador_RosaJaque_205345493 extends Carta_RosaJaque_rut {
                 this.texto = texto;
                 this.efecto = efecto;
                 }
-
+    //Metodos
+    
+    //getTipo: Devuelve el tipo de carta entrenador.
+    public String getTipo() {
+        return tipo;
+    }
+    
+    // getTexto: Devuelve la descripcion.
+    public String getTexto(){
+        return texto;
+    }
+    
+    // getEffecto: Devuelve efecto de la carta.
+    public Efecto_RosaJaque_205345493 getEfecto() {
+        return efecto;
+    }
 }
