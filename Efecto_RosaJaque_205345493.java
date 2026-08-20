@@ -1,7 +1,10 @@
 /**
 Efecto de una carta
 */
-public interface Efecto_RosaJaque_205345493 {
-  public void aplicar();
+public class Efecto_RosaJaque_205345493 {
+
+  public void aplicar(){
+    System.out.println("Efecto aplicado");
+  }
 }
 

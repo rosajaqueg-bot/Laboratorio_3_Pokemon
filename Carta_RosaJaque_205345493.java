@@ -46,4 +46,5 @@ public abstract class Carta_RosaJaque_205345493 {
     public String getNombre() {
         return nombre;
     }
+
 }

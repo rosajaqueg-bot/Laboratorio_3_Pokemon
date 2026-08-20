@@ -1,7 +1,7 @@
 /**
  * Carta de Entrenador.
  */
-public class CartaEntrenador_RosaJaque_205345493 extends Carta_RosaJaque_rut {
+public class CartaEntrenador_RosaJaque_205345493 extends Carta_RosaJaque_205345493 {
     // Atributos
     private String tipo; // "partidario" u "objeto"
     private String texto; // descripcion de la carta
